@@ -3,11 +3,11 @@
   "description": "alarm clock",
   "main": "index.js",
   "authors": [
-    "Chris and Rob"
+    "Robin King"
   ],
   "license": "ISC",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/RobinBKing/alarm-clock",
   "ignore": [
     "**/.*",
     "node_modules",

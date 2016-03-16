@@ -2,7 +2,7 @@ npm install
 npm init
 npm install prompt --save
 npm install browserify --save-dev (-g)
-browserify js/browser.js -o build/js/app.js
+browserify js/browser-interface.js -o build/js/app.js
 npm install gulp --save-dev (-g)
 npm install vinyl-source-stream --save-dev
 npm install gulp-concat --save-dev
@@ -14,6 +14,7 @@ gulp build
 npm install del --save-dev
 npm install jshint --save-dev
 npm install gulp-jshint --save-dev
+npm install gulp-sass gulp-sourcemaps --save-dev
 
   *bower stuff*
   npm install bower -g
